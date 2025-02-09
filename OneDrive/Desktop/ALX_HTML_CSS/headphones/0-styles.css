@@ -29,11 +29,11 @@ body {
   font-weight: 500;
   font-family: "Source Code Pro", serif;
 }
-.hero__container {
+.hero__container{
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 2rem;
+  gap: 20px;
+  color: red;
 }
 
 header {
